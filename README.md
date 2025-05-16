@@ -1,13 +1,28 @@
 # Python Masterclass Practice
 
-This repo contains my code and exercises while learning Python from Tim Buchalka's Python Masterclass on Udemy.
+This repository contains my code from [Tim Buchalka's Python Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course/) on Udemy.
 
-## Topics Covered
-- Variables, Loops, Functions
-- File I/O
-- Object-Oriented Programming
-- Error Handling
-- and more...
+## 🧠 What I'm Learning
 
-## Purpose
-I'm using this repository to show my learning progress and code improvement over time.
+I'm using this repo to document my Python learning journey — from basics to intermediate concepts.
+
+### ✅ Topics So Far:
+- Hello World and basic syntax
+- Program flow (loops, conditions)
+- Sequences (lists, tuples, ranges)
+- Dictionaries and Sets
+- Functions and scope
+
+## 📁 Folder Structure:
+📁 HelloWorld
+📁 ProgramFlow
+📁 Sequences
+📁 DictAndSet
+📁 Functions_Intro
+
+
+## 💼 Why this repo?
+
+I'm actively learning and want to demonstrate my dedication to potential employers and collaborators.
+
+⭐ Feel free to follow my journey!

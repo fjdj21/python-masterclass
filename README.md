@@ -14,12 +14,11 @@ I'm using this repo to document my Python learning journey — from basics to in
 - Functions and scope
 
 ## 📁 Folder Structure:
-📁 HelloWorld
-📁 ProgramFlow
-📁 Sequences
-📁 DictAndSet
-📁 Functions_Intro
-
+📁 01_HelloWorld
+📁 02_ProgramFlow
+📁 03_Sequences
+📁 04_Functions_Intro
+📁 05_DictAndSet
 
 ## 💼 Why this repo?
 
